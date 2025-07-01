@@ -1,0 +1,11 @@
+#root {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
