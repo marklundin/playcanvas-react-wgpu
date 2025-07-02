@@ -12,7 +12,7 @@
   "dependencies": {
     "@playcanvas/react": "0.5.0",
     "leva": "^0.10.0",
-    "playcanvas": "^2.8.2",
+    "playcanvas": "^2.9.0-beta.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
